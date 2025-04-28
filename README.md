@@ -1,66 +1,68 @@
-<!-- Profile Top Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Data+Engineer+by+Day;Dangerous+Developer+by+Night;Building+the+Future+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Jerin%20J%20Abraham!&fontSize=40&fontColor=FFFFFF" />
 </p>
 
-<h1 align="center">Hi, I'm Jerin J Abraham 👋</h1>
-<h3 align="center">🚀 Dangerous Developer | Data Engineer | Big Data Enthusiast</h3>
-
----
-
-## 🧠 About Me
-
-- 💻 Turning complex data into powerful insights.
-- 🛠️ Building scalable real-time systems and data pipelines.
-- ⚡ Passionate about Big Data, Distributed Systems, Cloud Engineering.
-- 🌍 Open to collaboration on exciting and challenging projects.
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/jerin-j-abraham/)
-
----
-
-## 🛠️ Tech Stack
+<h2 align="center">🚀 Data Engineer | Developer | Problem Solver 🚀</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,spark,sql,kafka,docker,aws,databricks,nodejs,react,figma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&width=435&lines=Transforming+Data+Into+Insights.;Building+Scalable+Systems.;Passionate+about+Big+Data+%26+AI.;Lifelong+Learner+%F0%9F%92%8A" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ✨ About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/Currently_Working_On-Spotify%20Clone-8A2BE2?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focused_On-Data%20Engineering%20%7C%20Cloud-1E90FF?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerinjabraham&show_icons=true&theme=radical&hide_border=true" alt="jerinjabraham" />
-</p>
+- 🎯 Passionate about solving real-world problems using data
+- 🔭 Building scalable, resilient data pipelines
+- ⚡ Explorer of Big Data, Distributed Systems, and Cloud
+- 🎨 Hobby: Creating creative coding projects and visualizations
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jerinjabraham&theme=radical&hide_border=true" alt="jerinjabraham" />
-</p>
+---
 
+## 🛠 Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,python,pyspark,flask,django,mongodb,mysql,postgresql,nodejs,react,typescript,html,css,git,linux,github" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jerin2004&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jerin2004&theme=tokyonight&hide_border=true" width="45%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerin2004&theme=react-dark&hide_border=true" width="96%"/>
+</div>
+
+---
+
+## 🚀 Let's Connect
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerinjabraham&layout=compact&theme=radical&hide_border=true" alt="jerinjabraham" />
+  <a href="https://linkedin.com/in/jerin-j-abraham" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jerin@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jerin2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-- **⚡ Real-time Streaming Analytics Platform**
-- **📊 Cloud-based Data Warehousing Solutions**
-- **🛠️ ETL Pipelines with Apache Spark**
-- **🧩 Scalable Service Platform (React + Node.js)**
-
----
-
-## 📬 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/jerin-j-abraham/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
----
-
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&animation=twinkling"/>
+  <b>Thanks for visiting! ✨ Come back soon.</b>
 </p>
