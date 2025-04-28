@@ -45,7 +45,7 @@
   <a href="https://linkedin.com/in/jerin-j-abraham" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="mailto:jerin@example.com" target="_blank">
+  <a href="mailto:jerinjabraham45@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
