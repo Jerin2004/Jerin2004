@@ -1,68 +1,66 @@
-<h1 align="center">Hey 👋, I'm Jerin J Abraham</h1>
+<!-- Profile Top Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=Data+Engineer+by+Day;Dangerous+Developer+by+Night;Building+the+Future+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Hi, I'm Jerin J Abraham 👋</h1>
 <h3 align="center">🚀 Dangerous Developer | Data Engineer | Big Data Enthusiast</h3>
 
+---
+
+## 🧠 About Me
+
+- 💻 Turning complex data into powerful insights.
+- 🛠️ Building scalable real-time systems and data pipelines.
+- ⚡ Passionate about Big Data, Distributed Systems, Cloud Engineering.
+- 🌍 Open to collaboration on exciting and challenging projects.
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/jerin-j-abraham/)
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&width=435&lines=Building+High-Impact+Data+Systems+🚀;Engineering+the+Future+of+Big+Data+📈;Dangerous+Developer+On+The+Loose+😈" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,spark,sql,kafka,docker,aws,databricks,nodejs,react,figma" />
 </p>
 
 ---
 
-## 👨‍💻 About Me:
-- 🔭 I’m currently working on **Real-time Data Pipelines and Big Data Projects**
-- 🌱 I’m focusing on **Apache Kafka, Spark Streaming, Airflow**
-- 👯 I’m looking to collaborate on **High-performance Data Engineering Systems**
-- 💬 Ask me about **Python, Spark, SQL, Kafka, Docker, Node.js, React.js**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jerin-j-abraham/)
+## 📊 GitHub Stats
 
----
-
-## 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-E8721D?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jerinjabraham&show_icons=true&theme=radical&hide_border=true" alt="jerinjabraham" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jerinjabraham&theme=radical&hide_border=true" alt="jerinjabraham" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerinjabraham&layout=compact&theme=radical&hide_border=true" alt="jerinjabraham" />
 </p>
 
 ---
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerinjabraham&show_icons=true&theme=tokyonight" alt="jerinjabraham" />
-</p>
+## 🚀 Featured Projects
+
+- **⚡ Real-time Streaming Analytics Platform**
+- **📊 Cloud-based Data Warehousing Solutions**
+- **🛠️ ETL Pipelines with Apache Spark**
+- **🧩 Scalable Service Platform (React + Node.js)**
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerinjabraham&theme=tokyonight" alt="jerinjabraham" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerinjabraham&layout=compact&theme=tokyonight" alt="jerinjabraham" />
+  <a href="https://www.linkedin.com/in/jerin-j-abraham/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 Projects:
-- 🔥 **Real-time Streaming Analytics with Kafka**
-- 📊 **Data Warehouse Building on AWS Redshift**
-- 🛠️ **ETL Pipelines with Spark Structured Streaming**
-- ⚡ **Service-Based Platform UI with React and Node.js**
-
----
-
-## 📬 Contact Me:
+<!-- Footer Banner -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jerin-j-abraham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&animation=twinkling"/>
 </p>
